@@ -1,0 +1,14 @@
+fn test(yes, no)
+    print yes
+    print no
+end
+
+define test "yes"
+
+print test
+
+plus 1+5
+
+test("yeet", "124")
+
+math 30+30
